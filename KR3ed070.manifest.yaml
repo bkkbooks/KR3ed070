@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed070_000.yaml, hash: 'sha256:a96f8c89d8a41ee3427bda1499aaea4b96c008f007a6d703b8f915da113fff25'}
+  - {seq: 0, filename: KR3ed070_000.yaml, hash: 'sha256:f75751049323d2d10794bff1783bf9fdd10af11cbbef21e1e5fefa24c9abf25c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed070_000.markers.yaml, hash: 'sha256:d8e92934e86fb29052582b5a8c6129d97d473e2f56ebaba3ec0a6078fcb25e52'}
+  - {seq: 0, role: markers, filename: assets/KR3ed070_000.markers.yaml, hash: 'sha256:1af505d02de9e0f18ea327f21a6f04e3380a6b4e85881ca60ab01e47d00d1975'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1511,7 +1511,4 @@ table_of_contents:
   label: 姚左四十二歲
   type: section
   level: 1
-hash: sha256:e35d2c12ee958ea39b7c4c5a6bd2bbd5a0b647121a44adf716bf87b301fb0a40
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3a3c9b5a84d2530d3b2d3ffca00d09ee1092d97e8d9a08bf6909c9bfe8bda739
