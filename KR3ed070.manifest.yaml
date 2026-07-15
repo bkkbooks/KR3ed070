@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ed070/v1
 canonical_location: https://kanripo.org/bkk/KR3ed070/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金氏門診方案
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed070_000.yaml, hash: 'sha256:f75751049323d2d10794bff1783bf9fdd10af11cbbef21e1e5fefa24c9abf25c'}
+  - {seq: 0, filename: KR3ed070_000.yaml, hash: 'sha256:f9fa7efc51a3d68673e4026c9ca4a81b91fe5fc2e97421cad61c855192a11a91'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed070_000.markers.yaml, hash: 'sha256:1af505d02de9e0f18ea327f21a6f04e3380a6b4e85881ca60ab01e47d00d1975'}
+  - {seq: 0, role: markers, filename: assets/KR3ed070_000.markers.yaml, hash: 'sha256:1f88e4698e282f79703187ada40f614ecc98e250355d70cb5b9580ddc175b422'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1511,4 +1511,7 @@ table_of_contents:
   label: 姚左四十二歲
   type: section
   level: 1
-hash: sha256:3a3c9b5a84d2530d3b2d3ffca00d09ee1092d97e8d9a08bf6909c9bfe8bda739
+hash: sha256:3e8102d90c3c47f331813656349ecfd250db22a2caa31b1bba6a4fa6a1f73528
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
